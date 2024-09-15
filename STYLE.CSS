@@ -1,0 +1,173 @@
+
+ h2{
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.outer{
+  display: flex;
+  flex-wrap:inherit;
+height: 400px;
+width: 1500px;
+gap: 10px;
+padding: 50 50 50 50px;
+background-color: black
+}
+.outer :hover{
+transform: scale(1.1);
+transition: 0.5s;
+
+}
+.outer a{
+  font-size: 30PX;
+  color: white;
+  margin: 50px;
+}
+
+ .outer a:hover{
+  color:#f5be4a;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 50px;  
+} 
+.outer1{
+  display:flex;
+  height: 400px;
+  width: 1500px;
+  gap: 10px;
+  padding: 50 50 50 50px;
+  background-color:black;
+  }
+  .outer1 :hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+.outer1 a{
+  font-size: 30PX;
+  color: white;
+  margin: 50px;
+}
+
+ .outer1 a:hover{
+  color:#f5be4a;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 50px;  
+} 
+h2{
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.outer2{
+  display: flex;
+  flex-wrap:inherit;
+height: 400px;
+width: 1500px;
+gap: 10px;
+padding: 50 50 50 50px;
+background-color: black
+}
+.outer2 :hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.outer2 a{
+  font-size: 30PX;
+  color: white;
+  margin: 50px;
+}
+
+ .outer2 a:hover{
+  color:#f5be4a;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 50px;  
+} 
+.outer3{
+  display:flex;
+  height: 400px;
+  width: 1500px;
+  gap: 10px;
+  padding: 50 50 50 50px;
+  background-color:black;
+  }
+  .outer3 :hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+.outer3 a{
+  font-size: 30PX;
+  color: white;
+  margin: 50px;
+}
+
+ .outer3 a:hover{
+  color:#f5be4a;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 50px;  
+} 
+h2{
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+.outer4{
+  display: flex;
+  flex-wrap:inherit;
+height: 400px;
+width: 1500px;
+gap: 10px;
+padding: 50 50 50 50px;
+background-color: black
+}
+.outer4 :hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.outer4 a{
+  font-size: 30PX;
+  color: white;
+  margin: 50px;
+}
+
+ .outer4 a:hover{
+  color:#f5be4a;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 50px;  
+} 
+.outer5{
+  display:flex;
+  height: 400px;
+  width: 1500px;
+  gap: 10px;
+  padding: 50 50 50 50px;
+  background-color:black;
+  }
+  .outer5 :hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+  }
+.outer5 a{
+  font-size: 30PX;
+  color: white;
+  margin: 50px;
+}
+
+ .outer5 a:hover{
+  color:#f5be4a;
+  text-decoration: underline;
+  font-size: 30px;
+  margin: 50px;  
+} 
+
+
+
